@@ -1,0 +1,128 @@
+{
+  "login": [
+    {
+      "name": "covid",
+      "passowrd": "abc@123"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "yes here",
+      "address": "ondoor indore",
+      "family": "1032",
+      "mobile": "3219873332",
+      "aadhar": "980193281093",
+      "id": 6
+    },
+    {
+      "name": "radhe solanki",
+      "family": "sfsdf",
+      "address": "fsdfds",
+      "mobile": "123",
+      "aadhar": "123123",
+      "nameError": "Please fill this filed",
+      "datasuccess": "",
+      "id": 9
+    },
+    {
+      "name": "sdfsdf",
+      "family": "sfdsf",
+      "address": "sdfsdf",
+      "mobile": "sdfdsf",
+      "aadhar": "sdfsdf",
+      "nameError": "",
+      "datasuccess": "",
+      "id": 10
+    },
+    {
+      "name": "kop",
+      "family": "90",
+      "address": "lolopy",
+      "mobile": "9098443259",
+      "aadhar": "876543231",
+      "nameError": "",
+      "datasuccess": "",
+      "id": 11
+    },
+    {
+      "name": "fsfs",
+      "family": "123",
+      "address": "fsfsdfd",
+      "mobile": "123123123",
+      "aadhar": "32",
+      "nameError": "",
+      "datasuccess": "",
+      "id": 12
+    },
+    {
+      "name": "radhe solanki",
+      "family": "321",
+      "address": "bhawarkua indrapuri",
+      "mobile": "09131728832",
+      "aadhar": "123321123321",
+      "nameError": "",
+      "datasuccess": "",
+      "id": 13
+    },
+    {
+      "name": "reancoat",
+      "family": "90",
+      "address": "Rancost",
+      "mobile": "9826494590",
+      "aadhar": "12345",
+      "nameError": "",
+      "datasuccess": "",
+      "id": 14
+    },
+    {
+      "name": "yoyo",
+      "family": "12",
+      "address": "Yoaddress",
+      "mobile": "13290129",
+      "aadhar": "32",
+      "nameError": "",
+      "datasuccess": "",
+      "id": 15
+    },
+    {
+      "name": "kratika",
+      "family": "12",
+      "address": "op",
+      "mobile": "8517960017",
+      "aadhar": "123123",
+      "nameError": "",
+      "datasuccess": "",
+      "id": 16
+    },
+    {
+      "name": "ssssss",
+      "family": "122",
+      "address": "ssssssssss",
+      "mobile": "3132132123",
+      "aadhar": "12331231321313",
+      "nameError": "",
+      "datasuccess": "",
+      "id": 18
+    },
+    {
+      "name": "take",
+      "family": "fsfs",
+      "address": "asss",
+      "mobile": "fsdfs",
+      "aadhar": "sdfsdf",
+      "nameError": "",
+      "datasuccess": "",
+      "id": 19
+    },
+    {
+      "name": "ranu ",
+      "family": "12",
+      "address": "amshssh",
+      "mobile": "9826495690",
+      "aadhar": "27349283423",
+      "nameError": "",
+      "datasuccess": "",
+      "id": 20
+    }
+  ]
+}
